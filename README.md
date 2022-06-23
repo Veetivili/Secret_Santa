@@ -19,7 +19,7 @@ Loops and functions are used for calculating budget and generating the unique li
 2. "Do you want to add more participants? (yes/no): " Write 'yes' or use enter for inserting more names and write 'no' for proceeding in program.  
 3. "Insert your company budget: " Insert budget as integer value. Example: 423  
 4.  Program will now print results of secret santa.  
-![Output example](/images/example.png)  
+![Output example](./example.png)  
 
 ##Author  
 
