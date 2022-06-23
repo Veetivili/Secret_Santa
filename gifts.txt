@@ -2,7 +2,7 @@ Apple
 Winebottle
 Necklace
 Lamp
-Vodka
+Vodkabottle
 Cactus
 Carpet
 Glass
@@ -18,10 +18,12 @@ Gatorade
 Kaalimato giftcard
 Bed sheets
 Book
-Assault rifle
+Water gun
 Mirror
 Color palette
 Cake
 Violin
 Plates
 Parfym
+pack of mints
+lewi's jeans
